@@ -1,0 +1,11 @@
+{
+  "name": "ai-assistant",
+  "alias": "AI助手",
+  "describe": "右下角AI对话助手",
+  "loadType": "merge",
+  "type": "jar",
+  "author": "philipxiaoxi",
+  "apiVersion": "^api.version^",
+  "version": "^project.version^",
+  "autoLoad": ["index.umd.js"]
+}
